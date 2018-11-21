@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1542779820957" stop="1542779854346" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1542779821385" stop="1542779854239" status="passed">
+            <name>Test</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="execution.Exection"/>
+                <label name="testMethod" value="Test"/>
+                <label name="host" value="apples-MacBook-Pro-2.local"/>
+                <label name="thread" value="24516@apples-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1542779821385" stop="1542779854239" status="passed">
+            <name>Test</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="execution.Exection"/>
+                <label name="testMethod" value="Test"/>
+                <label name="host" value="apples-MacBook-Pro-2.local"/>
+                <label name="thread" value="24516@apples-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
